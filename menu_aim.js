@@ -3,7 +3,6 @@ var y1 = 0;
 var set = false;
 var x2 = 0;
 var y2 = 0;
-var aSine = 0;
 var angle = 0;
 
 Math.degrees = function(radians) {
